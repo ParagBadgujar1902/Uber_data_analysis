@@ -50,9 +50,4 @@ The SQL script includes queries and views for:
 
 ---
 
-## 🗂 File Structure
 
-```plaintext
-uber-trip-data-analysis/
-├── uber_trip_analysis.sql   # Main SQL queries and views
-└── README.md                # Project overview and documentation
